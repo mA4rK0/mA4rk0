@@ -33,6 +33,8 @@
   <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" height="30" alt="golang logo"  />
 </div>
 
 ###
